@@ -1,0 +1,3 @@
+name, surname, age
+Triinu, Niklus, 27
+Marken, Piirisalu, 7

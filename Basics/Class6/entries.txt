@@ -1,0 +1,5 @@
+id, name, age, city, potato_count
+1,Triinu,27,Tartu,20
+2,Maali,25,Maalt,15
+3,Kalle,30,Maalt,12
+4,KAru,2,Mets,90
