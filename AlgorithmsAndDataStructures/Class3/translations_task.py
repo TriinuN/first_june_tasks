@@ -1,10 +1,7 @@
 import os
 import json
 
-# Directory containing the JSON files
 directory = 'translations'
-
-# Dictionary to hold all extracted TBT values with their respective file names
 tbt_values = {}
 
 
@@ -23,15 +20,14 @@ def extract_tbt_values(data, parent_key=None):
             extract_tbt_values(item, full_key)
 
 
-# Read all JSON files in the directory
 for filename in os.listdir(directory):
     if filename.endswith(".json"):
         with open(os.path.join(directory, filename), 'r', encoding='utf-8') as file:
-            file_name = filename.split('.')[0]  # Extracting file name without extension
+            file_name = filename.split('.')[0]
             data = json.load(file)
             extract_tbt_values(data)
 
-# Create the result file
+
 with open('result_file.txt', 'w', encoding='utf-8') as result_file:
     for file_name, values in tbt_values.items():
         result_file.write(f'"{file_name}.json": {{\n')

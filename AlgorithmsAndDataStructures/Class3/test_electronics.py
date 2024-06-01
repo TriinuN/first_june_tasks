@@ -7,10 +7,8 @@ import os
 class TestJsonToCsvConversion(unittest.TestCase):
 
     def test_conversion(self):
-        # Ensure the test JSON file exists
         self.assertTrue(os.path.exists('electronics_products.json'), "JSON file not found")
 
-        # Read the JSON file
         with open('electronics_products.json', 'r') as json_file:
             data = json.load(json_file)
 
@@ -31,7 +29,6 @@ class TestJsonToCsvConversion(unittest.TestCase):
             }
             cleaned_data.append(cleaned_product)
 
-        # Write the cleaned data to a CSV file
         with open('test_electronics_products.csv', 'w', newline='', encoding='utf-8') as csv_file:
             fieldnames = ['id', 'name', 'price', 'category', 'currency', 'stock', 'description',
                           'manufacturer', 'warranty', 'extra_field']
@@ -41,17 +38,14 @@ class TestJsonToCsvConversion(unittest.TestCase):
             for product in cleaned_data:
                 writer.writerow(product)
 
-        # Check if the CSV file was created successfully
         self.assertTrue(os.path.exists('test_electronics_products.csv'), "CSV file not created")
 
-        # Check if the CSV file contains expected headers
         with open('test_electronics_products.csv', 'r', newline='', encoding='utf-8') as csv_file:
             reader = csv.DictReader(csv_file)
             expected_headers = ['id', 'name', 'price', 'category', 'currency', 'stock', 'description',
                                 'manufacturer', 'warranty', 'extra_field']
             self.assertEqual(reader.fieldnames, expected_headers, "Incorrect CSV headers")
 
-        # Clean up: Delete the test CSV file
         os.remove('test_electronics_products.csv')
 
 
