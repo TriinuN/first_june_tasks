@@ -1,0 +1,3302 @@
+[
+    {
+        "Customer name": "Diana Smith",
+        "Products": [
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            }
+        ],
+        "Total price without discount": "4.80€",
+        "Total amount spent (with discount)": "3.93€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Charlie Jones",
+        "Products": [
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            }
+        ],
+        "Total price without discount": "5.80€",
+        "Total amount spent (with discount)": "5.17€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Ian Davis",
+        "Products": [
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            }
+        ],
+        "Total price without discount": "3.90€",
+        "Total amount spent (with discount)": "3.15€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Edward Brown",
+        "Products": [
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            }
+        ],
+        "Total price without discount": "8.60€",
+        "Total amount spent (with discount)": "7.89€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Charlie Brown",
+        "Products": [
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            }
+        ],
+        "Total price without discount": "11.80€",
+        "Total amount spent (with discount)": "10.93€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "George Garcia",
+        "Products": [
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            }
+        ],
+        "Total price without discount": "3.30€",
+        "Total amount spent (with discount)": "3.05€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Charlie Smith",
+        "Products": [
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            }
+        ],
+        "Total price without discount": "3.70€",
+        "Total amount spent (with discount)": "3.32€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Diana Davis",
+        "Products": [
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            }
+        ],
+        "Total price without discount": "16.80€",
+        "Total amount spent (with discount)": "15.88€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Edward Garcia",
+        "Products": [
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            }
+        ],
+        "Total price without discount": "15.00€",
+        "Total amount spent (with discount)": "14.45€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Fiona Davis",
+        "Products": [
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            }
+        ],
+        "Total price without discount": "7.40€",
+        "Total amount spent (with discount)": "6.74€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Diana Davis",
+        "Products": [
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            }
+        ],
+        "Total price without discount": "15.00€",
+        "Total amount spent (with discount)": "14.60€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Alice Garcia",
+        "Products": [
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            }
+        ],
+        "Total price without discount": "3.40€",
+        "Total amount spent (with discount)": "2.86€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Hannah Miller",
+        "Products": [
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            }
+        ],
+        "Total price without discount": "6.70€",
+        "Total amount spent (with discount)": "5.95€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Diana Williams",
+        "Products": [
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            }
+        ],
+        "Total price without discount": "3.70€",
+        "Total amount spent (with discount)": "3.25€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Ian Jones",
+        "Products": [
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            }
+        ],
+        "Total price without discount": "3.60€",
+        "Total amount spent (with discount)": "2.97€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Edward Jones",
+        "Products": [
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            }
+        ],
+        "Total price without discount": "3.60€",
+        "Total amount spent (with discount)": "3.31€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Hannah Garcia",
+        "Products": [
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            }
+        ],
+        "Total price without discount": "9.80€",
+        "Total amount spent (with discount)": "9.12€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Fiona Smith",
+        "Products": [
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            }
+        ],
+        "Total price without discount": "8.60€",
+        "Total amount spent (with discount)": "8.06€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "George Miller",
+        "Products": [
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            }
+        ],
+        "Total price without discount": "6.50€",
+        "Total amount spent (with discount)": "5.62€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Edward Martinez",
+        "Products": [
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            }
+        ],
+        "Total price without discount": "9.10€",
+        "Total amount spent (with discount)": "9.02€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Charlie Martinez",
+        "Products": [
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            }
+        ],
+        "Total price without discount": "16.70€",
+        "Total amount spent (with discount)": "15.35€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Hannah Davis",
+        "Products": [
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            }
+        ],
+        "Total price without discount": "18.00€",
+        "Total amount spent (with discount)": "17.70€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Diana Jones",
+        "Products": [
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            }
+        ],
+        "Total price without discount": "9.10€",
+        "Total amount spent (with discount)": "8.62€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Fiona Williams",
+        "Products": [
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            }
+        ],
+        "Total price without discount": "4.00€",
+        "Total amount spent (with discount)": "3.28€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Julia Smith",
+        "Products": [
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            }
+        ],
+        "Total price without discount": "14.30€",
+        "Total amount spent (with discount)": "13.97€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Julia Brown",
+        "Products": [
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            }
+        ],
+        "Total price without discount": "9.80€",
+        "Total amount spent (with discount)": "9.70€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Charlie Martinez",
+        "Products": [
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            }
+        ],
+        "Total price without discount": "6.90€",
+        "Total amount spent (with discount)": "6.46€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Bob Jones",
+        "Products": [
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            }
+        ],
+        "Total price without discount": "9.30€",
+        "Total amount spent (with discount)": "8.52€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Diana Brown",
+        "Products": [
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            }
+        ],
+        "Total price without discount": "11.00€",
+        "Total amount spent (with discount)": "9.92€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Diana Garcia",
+        "Products": [
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            }
+        ],
+        "Total price without discount": "22.50€",
+        "Total amount spent (with discount)": "22.30€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Diana Johnson",
+        "Products": [
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            }
+        ],
+        "Total price without discount": "13.70€",
+        "Total amount spent (with discount)": "12.86€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "George Johnson",
+        "Products": [
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            }
+        ],
+        "Total price without discount": "12.00€",
+        "Total amount spent (with discount)": "11.16€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Fiona Rodriguez",
+        "Products": [
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            }
+        ],
+        "Total price without discount": "14.80€",
+        "Total amount spent (with discount)": "14.62€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Fiona Martinez",
+        "Products": [
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            }
+        ],
+        "Total price without discount": "9.80€",
+        "Total amount spent (with discount)": "9.50€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Fiona Martinez",
+        "Products": [
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            }
+        ],
+        "Total price without discount": "8.40€",
+        "Total amount spent (with discount)": "7.70€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Ian Miller",
+        "Products": [
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            }
+        ],
+        "Total price without discount": "11.80€",
+        "Total amount spent (with discount)": "10.91€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Charlie Johnson",
+        "Products": [
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            }
+        ],
+        "Total price without discount": "4.20€",
+        "Total amount spent (with discount)": "3.61€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Bob Garcia",
+        "Products": [
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            }
+        ],
+        "Total price without discount": "19.50€",
+        "Total amount spent (with discount)": "18.43€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Diana Johnson",
+        "Products": [
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            }
+        ],
+        "Total price without discount": "7.90€",
+        "Total amount spent (with discount)": "7.41€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Edward Williams",
+        "Products": [
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            }
+        ],
+        "Total price without discount": "8.70€",
+        "Total amount spent (with discount)": "8.07€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Fiona Williams",
+        "Products": [
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            }
+        ],
+        "Total price without discount": "22.00€",
+        "Total amount spent (with discount)": "21.90€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Edward Garcia",
+        "Products": [
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            }
+        ],
+        "Total price without discount": "6.20€",
+        "Total amount spent (with discount)": "5.53€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Fiona Miller",
+        "Products": [
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            }
+        ],
+        "Total price without discount": "8.60€",
+        "Total amount spent (with discount)": "8.06€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Alice Miller",
+        "Products": [
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            }
+        ],
+        "Total price without discount": "8.90€",
+        "Total amount spent (with discount)": "8.22€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Fiona Rodriguez",
+        "Products": [
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            }
+        ],
+        "Total price without discount": "5.50€",
+        "Total amount spent (with discount)": "4.55€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Alice Martinez",
+        "Products": [
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            }
+        ],
+        "Total price without discount": "13.50€",
+        "Total amount spent (with discount)": "13.50€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Hannah Martinez",
+        "Products": [
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            }
+        ],
+        "Total price without discount": "6.80€",
+        "Total amount spent (with discount)": "6.65€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Charlie Garcia",
+        "Products": [
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            }
+        ],
+        "Total price without discount": "11.00€",
+        "Total amount spent (with discount)": "10.48€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Hannah Garcia",
+        "Products": [
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            }
+        ],
+        "Total price without discount": "21.50€",
+        "Total amount spent (with discount)": "20.33€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Alice Jones",
+        "Products": [
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            }
+        ],
+        "Total price without discount": "18.90€",
+        "Total amount spent (with discount)": "18.60€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Diana Williams",
+        "Products": [
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            }
+        ],
+        "Total price without discount": "14.50€",
+        "Total amount spent (with discount)": "14.22€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Charlie Martinez",
+        "Products": [
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            }
+        ],
+        "Total price without discount": "10.20€",
+        "Total amount spent (with discount)": "9.31€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Bob Davis",
+        "Products": [
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            }
+        ],
+        "Total price without discount": "3.60€",
+        "Total amount spent (with discount)": "3.10€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "George Miller",
+        "Products": [
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            }
+        ],
+        "Total price without discount": "9.00€",
+        "Total amount spent (with discount)": "8.34€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Alice Davis",
+        "Products": [
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            }
+        ],
+        "Total price without discount": "14.30€",
+        "Total amount spent (with discount)": "13.46€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Julia Rodriguez",
+        "Products": [
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            }
+        ],
+        "Total price without discount": "15.50€",
+        "Total amount spent (with discount)": "15.06€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Ian Jones",
+        "Products": [
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            }
+        ],
+        "Total price without discount": "7.60€",
+        "Total amount spent (with discount)": "6.89€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Edward Jones",
+        "Products": [
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            }
+        ],
+        "Total price without discount": "8.10€",
+        "Total amount spent (with discount)": "7.92€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Fiona Martinez",
+        "Products": [
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            }
+        ],
+        "Total price without discount": "6.10€",
+        "Total amount spent (with discount)": "5.29€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Julia Jones",
+        "Products": [
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            }
+        ],
+        "Total price without discount": "6.20€",
+        "Total amount spent (with discount)": "5.47€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Alice Miller",
+        "Products": [
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            }
+        ],
+        "Total price without discount": "13.70€",
+        "Total amount spent (with discount)": "13.32€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "George Smith",
+        "Products": [
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            }
+        ],
+        "Total price without discount": "8.80€",
+        "Total amount spent (with discount)": "8.57€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Julia Smith",
+        "Products": [
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            }
+        ],
+        "Total price without discount": "4.70€",
+        "Total amount spent (with discount)": "4.06€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Edward Martinez",
+        "Products": [
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            }
+        ],
+        "Total price without discount": "8.60€",
+        "Total amount spent (with discount)": "8.09€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Diana Williams",
+        "Products": [
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            }
+        ],
+        "Total price without discount": "8.80€",
+        "Total amount spent (with discount)": "7.98€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Charlie Jones",
+        "Products": [
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            }
+        ],
+        "Total price without discount": "5.40€",
+        "Total amount spent (with discount)": "4.96€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Fiona Garcia",
+        "Products": [
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            }
+        ],
+        "Total price without discount": "3.50€",
+        "Total amount spent (with discount)": "3.09€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Diana Williams",
+        "Products": [
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            }
+        ],
+        "Total price without discount": "4.90€",
+        "Total amount spent (with discount)": "4.72€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Fiona Jones",
+        "Products": [
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            }
+        ],
+        "Total price without discount": "4.70€",
+        "Total amount spent (with discount)": "3.71€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Edward Johnson",
+        "Products": [
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            }
+        ],
+        "Total price without discount": "7.50€",
+        "Total amount spent (with discount)": "6.85€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Charlie Davis",
+        "Products": [
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            }
+        ],
+        "Total price without discount": "11.60€",
+        "Total amount spent (with discount)": "10.58€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Ian Garcia",
+        "Products": [
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            }
+        ],
+        "Total price without discount": "8.60€",
+        "Total amount spent (with discount)": "7.83€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Bob Johnson",
+        "Products": [
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            }
+        ],
+        "Total price without discount": "14.70€",
+        "Total amount spent (with discount)": "13.79€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Bob Rodriguez",
+        "Products": [
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            }
+        ],
+        "Total price without discount": "20.50€",
+        "Total amount spent (with discount)": "19.19€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Diana Miller",
+        "Products": [
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            }
+        ],
+        "Total price without discount": "19.50€",
+        "Total amount spent (with discount)": "18.43€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Fiona Miller",
+        "Products": [
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            }
+        ],
+        "Total price without discount": "5.20€",
+        "Total amount spent (with discount)": "4.96€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "George Jones",
+        "Products": [
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            }
+        ],
+        "Total price without discount": "6.00€",
+        "Total amount spent (with discount)": "5.62€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Ian Martinez",
+        "Products": [
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            }
+        ],
+        "Total price without discount": "7.60€",
+        "Total amount spent (with discount)": "6.91€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Fiona Rodriguez",
+        "Products": [
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            }
+        ],
+        "Total price without discount": "4.70€",
+        "Total amount spent (with discount)": "3.77€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Alice Davis",
+        "Products": [
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            }
+        ],
+        "Total price without discount": "6.50€",
+        "Total amount spent (with discount)": "5.64€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Hannah Martinez",
+        "Products": [
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            }
+        ],
+        "Total price without discount": "4.90€",
+        "Total amount spent (with discount)": "4.22€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Alice Smith",
+        "Products": [
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            }
+        ],
+        "Total price without discount": "3.50€",
+        "Total amount spent (with discount)": "3.21€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Edward Jones",
+        "Products": [
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            }
+        ],
+        "Total price without discount": "9.70€",
+        "Total amount spent (with discount)": "8.80€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Fiona Garcia",
+        "Products": [
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            }
+        ],
+        "Total price without discount": "9.80€",
+        "Total amount spent (with discount)": "8.84€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "George Jones",
+        "Products": [
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            }
+        ],
+        "Total price without discount": "16.00€",
+        "Total amount spent (with discount)": "15.82€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Edward Brown",
+        "Products": [
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            }
+        ],
+        "Total price without discount": "9.60€",
+        "Total amount spent (with discount)": "8.55€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "George Rodriguez",
+        "Products": [
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            }
+        ],
+        "Total price without discount": "6.30€",
+        "Total amount spent (with discount)": "5.39€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "George Jones",
+        "Products": [
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            }
+        ],
+        "Total price without discount": "9.40€",
+        "Total amount spent (with discount)": "8.53€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Fiona Miller",
+        "Products": [
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            }
+        ],
+        "Total price without discount": "16.50€",
+        "Total amount spent (with discount)": "15.58€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "George Brown",
+        "Products": [
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            }
+        ],
+        "Total price without discount": "10.80€",
+        "Total amount spent (with discount)": "9.90€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Edward Williams",
+        "Products": [
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            }
+        ],
+        "Total price without discount": "19.30€",
+        "Total amount spent (with discount)": "18.24€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Charlie Williams",
+        "Products": [
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            }
+        ],
+        "Total price without discount": "20.40€",
+        "Total amount spent (with discount)": "19.04€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Bob Smith",
+        "Products": [
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            }
+        ],
+        "Total price without discount": "16.40€",
+        "Total amount spent (with discount)": "16.10€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Diana Davis",
+        "Products": [
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            }
+        ],
+        "Total price without discount": "10.40€",
+        "Total amount spent (with discount)": "9.36€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Charlie Garcia",
+        "Products": [
+            {
+                "name": "Milk",
+                "price": "1.20€",
+                "discounted_price": "1.02€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            }
+        ],
+        "Total price without discount": "10.80€",
+        "Total amount spent (with discount)": "10.36€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "George Williams",
+        "Products": [
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Donut",
+                "price": "1.20€",
+                "discounted_price": "0.96€"
+            }
+        ],
+        "Total price without discount": "16.00€",
+        "Total amount spent (with discount)": "15.76€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Charlie Smith",
+        "Products": [
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Bread",
+                "price": "1.50€",
+                "discounted_price": "1.20€"
+            },
+            {
+                "name": "Chicken",
+                "price": "5.00€",
+                "discounted_price": "5.00€"
+            }
+        ],
+        "Total price without discount": "14.00€",
+        "Total amount spent (with discount)": "13.45€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "Charlie Williams",
+        "Products": [
+            {
+                "name": "Yogurt",
+                "price": "1.00€",
+                "discounted_price": "1.00€"
+            },
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Banana",
+                "price": "0.50€",
+                "discounted_price": "0.45€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Apple",
+                "price": "1.00€",
+                "discounted_price": "0.90€"
+            }
+        ],
+        "Total price without discount": "9.80€",
+        "Total amount spent (with discount)": "9.17€",
+        "Cashier that served them": "Liis"
+    },
+    {
+        "Customer name": "Bob Johnson",
+        "Products": [
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Beef",
+                "price": "7.00€",
+                "discounted_price": "7.00€"
+            },
+            {
+                "name": "Tomato",
+                "price": "0.50€",
+                "discounted_price": "0.50€"
+            },
+            {
+                "name": "Croissant",
+                "price": "1.00€",
+                "discounted_price": "0.80€"
+            }
+        ],
+        "Total price without discount": "15.90€",
+        "Total amount spent (with discount)": "15.70€",
+        "Cashier that served them": "Mari"
+    },
+    {
+        "Customer name": "George Brown",
+        "Products": [
+            {
+                "name": "Carrot",
+                "price": "0.30€",
+                "discounted_price": "0.30€"
+            },
+            {
+                "name": "Pork",
+                "price": "6.00€",
+                "discounted_price": "6.00€"
+            },
+            {
+                "name": "Cheese",
+                "price": "2.50€",
+                "discounted_price": "2.50€"
+            },
+            {
+                "name": "Potato",
+                "price": "0.40€",
+                "discounted_price": "0.40€"
+            },
+            {
+                "name": "Orange",
+                "price": "0.80€",
+                "discounted_price": "0.72€"
+            }
+        ],
+        "Total price without discount": "10.00€",
+        "Total amount spent (with discount)": "9.42€",
+        "Cashier that served them": "Mari"
+    }
+]
